@@ -65,10 +65,10 @@ The dashboard follows a **star schema**:
 ## 📊 How to Reproduce
 
 1. **Generate Data**:  
-Ensure you have **Python** and **Pandas** installed. Run the file "Python Script to generate data".
+Ensure you have **Python** and **Pandas** installed. Run the file `Generate data`.
 
 2. **Load Dashboard in Power BI**:
-Open Fulfillment_Dashboard.pbix in Microsoft Power BI.
+Open `3PL FulfillmentDashboard`.pbix in Microsoft Power BI.
 
 
 ## Demo
