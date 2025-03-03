@@ -1,12 +1,13 @@
 # 📊 Fulfillment Center Performance Dashboard
 
-This repository contains a **Power BI dashboard** that tracks the performance of **8 fulfillment centers in France** across key operational metrics. The data is **synthetically generated** using Python to simulate realistic fulfillment center operations over the year **2024**.
+This repository contains a **Power BI dashboard** that tracks the performance of **8 fulfillment centers in France** across key operational metrics. 
+The data is **synthetically generated** using Python to simulate realistic fulfillment center operations over the year **2024**.
 
 ---
 
 ## 🚀 Project Overview
 
-The dashboard visualizes five critical **Key Performance Indicators (KPIs)**:
+The dashboard visualizes five critical **KPIs**:
 
 1. **📦 On-Time Delivery Rate (%)**: Percentage of orders delivered within the promised timeframe.  
 2. **⏳ Total Order Cycle Time (Days)**: Average time taken from order placement to delivery.  
