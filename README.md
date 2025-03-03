@@ -70,12 +70,13 @@ Ensure you have **Python** and **Pandas** installed. Run the file "Python Script
 2. **Load Dashboard in Power BI**:
 Open Fulfillment_Dashboard.pbix in Microsoft Power BI.
 
+
+## Demo
+
+https://github.com/user-attachments/assets/109cadc2-f8aa-4cf6-bde5-dbdada862726
+
+
 ## 📊 Future Improvements
 - Incorporate forecasting for future delivery and accuracy trends.
 - Add geospatial analysis to track performance across regions.
 - Implement dynamic alerts for KPI deviations.
-
-## Demo
-
-https://github.com/user-attachments/assets/48351abb-459c-4a2f-9bf0-e589d8e1f180
-
