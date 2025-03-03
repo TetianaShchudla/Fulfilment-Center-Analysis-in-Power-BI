@@ -1,6 +1,7 @@
 # 📊 Fulfillment Center Performance Dashboard
 
 This repository contains a **Power BI dashboard** that tracks the performance of **8 fulfillment centers in France** across key operational metrics. 
+
 The data is **synthetically generated** using Python to simulate realistic fulfillment center operations over the year **2024**.
 
 ---
