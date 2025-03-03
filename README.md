@@ -16,13 +16,6 @@ The dashboard visualizes five critical **Key Performance Indicators (KPIs)**:
 
 ---
 
-## 📂 Project Structure
-
-📁 Fulfillment-Center-Dashboard/ ├── 📊 Fulfillment_Dashboard.pbix # Power BI dashboard file ├── 📜 README.md # Project documentation (this file) ├── 📊 star_format_data/ # Contains generated dataset │ └── fulfillment_center_data.csv # Simulated fulfillment data (2024) └── 📜 generate_data.py # Python script to generate the dataset
-
-
----
-
 ## 📊 Data Generation Process
 
 Data for the dashboard is generated using a **Python script** (`generate_data.py`), which simulates daily operations for **8 fulfillment centers** from **January 1, 2024, to December 31, 2024**.
@@ -83,9 +76,9 @@ Ensure you have **Python** and **Pandas** installed. Run the file "Python Script
 Open Fulfillment_Dashboard.pbix in Microsoft Power BI.
 
 ## 📊 Future Improvements
-Incorporate forecasting for future delivery and accuracy trends.
-Add geospatial analysis to track performance across regions.
-Implement dynamic alerts for KPI deviations.
+- Incorporate forecasting for future delivery and accuracy trends.
+- Add geospatial analysis to track performance across regions.
+- Implement dynamic alerts for KPI deviations.
 
 
 
