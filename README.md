@@ -1,13 +1,5 @@
 # 📊 3PL Fulfillment Center Performance Dashboard
 
-![image](https://github.com/user-attachments/assets/9cb92f4e-7c40-4ec5-a12b-a275d08c88eb)
-
-![image](https://github.com/user-attachments/assets/27b6fc2f-4dd9-4b58-954c-f639cfa335c7)
-
-![image](https://github.com/user-attachments/assets/aa36e4f3-7464-44ef-98de-6e4cb29406f6)
-
-
-
 This repository contains a **Power BI dashboard** that tracks the performance of **8 fulfillment centers (FCs) in France** across key operational metrics. 
 
 The data is **synthetically generated** using Python to simulate realistic fulfillment center operations over the year **2024**.
