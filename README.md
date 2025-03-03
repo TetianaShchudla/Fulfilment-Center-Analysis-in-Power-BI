@@ -12,20 +12,33 @@ This repository contains a **Power BI dashboard** that tracks the performance of
 
 The data is **synthetically generated** using Python to simulate realistic fulfillment center operations over the year **2024**.
 
-![image](https://github.com/user-attachments/assets/d84144e9-559f-4f16-b1e1-601b3c17c860)
 
 ---
 
 ## 🚀 Project Overview
 
-The dashboard visualizes five critical **KPIs**:
+### Objective of the Project:
+The objective of this project is to create a dashboard that helps to **track and evaluate the operational performance** of fulfillment centers. By visualizing key metrics such as on-time delivery rates, order cycle times, accuracy rates, and costs, the goal is to provide actionable insights that can help optimize the efficiency of fulfillment centers. This project enables stakeholders to identify potential issues, improve performance, and ensure timely and cost-effective order fulfillment.
 
-1. **📦 On-Time Delivery Rate (%)**: Percentage of orders delivered within the promised timeframe.  
-2. **⏳ Total Order Cycle Time (Days)**: Average time taken from order placement to delivery.  
-3. **✅ Order Picking Accuracy Rate (%)**: Percentage of items accurately picked for shipment.  
-4. **📊 Inventory Accuracy Rate (%)**: Ratio of physical inventory to recorded inventory.  
-5. **💰 Average Cost per Order ($)**: Average cost incurred to fulfill an order.
+The **dashboard** visualizes the following five critical KPIs:
 
+- 📦 **On-Time Delivery Rate (%)**: Percentage of orders delivered within the promised timeframe.
+- ⏳ **Total Order Cycle Time (Days)**: Average time taken from order placement to delivery.
+- ✅ **Order Picking Accuracy Rate (%)**: Percentage of items accurately picked for shipment.
+- 📊 **Inventory Accuracy Rate (%)**: Ratio of physical inventory to recorded inventory.
+- 💰 **Average Cost per Order ($)**: Average cost incurred to fulfill an order.
+
+### What is a Fulfillment Center?
+
+A **fulfillment center (FC)** is a facility that stores products, processes orders, and ships them to customers. These centers are integral to e-commerce operations as they handle inventory management, order picking, packing, and shipping. They ensure that products are available for delivery, reducing shipping times and improving customer satisfaction. Depending on the size and operational scale, fulfillment centers can vary in complexity and capacity, with some managing millions of orders each year.
+
+### What is 3PL (Third-Party Logistics)?
+
+**3PL (Third-Party Logistics)** refers to the outsourcing of logistics operations to a specialized service provider. A 3PL provider manages various aspects of the supply chain, including storage, inventory management, order fulfillment, and shipping. Companies often work with 3PL providers to streamline their operations, reduce costs, and focus on their core business functions, while leaving logistics to experts.
+
+In the context of this project, **fulfillment centers** are a crucial part of the 3PL network. They help manage the storage and shipping of products, ensuring timely delivery and operational efficiency. By using 3PL services, businesses can scale operations and optimize their supply chain without managing the complexities of logistics themselves.
+
+![image](https://github.com/user-attachments/assets/d84144e9-559f-4f16-b1e1-601b3c17c860)
 ---
 
 ## 📊 Data Generation Process
@@ -81,7 +94,9 @@ Ensure you have **Python** and **Pandas** installed. Run the file `Generate data
 Open `3PL FulfillmentDashboard`.pbix in Microsoft Power BI.
 
 
-## Demo
+## 📹 Demo Video
+
+Watch the demo video below to see the 3PL Fulfillment Center Performance Dashboard in action:
 
 https://github.com/user-attachments/assets/109cadc2-f8aa-4cf6-bde5-dbdada862726
 
