@@ -4,10 +4,15 @@
 
 ![image](https://github.com/user-attachments/assets/27b6fc2f-4dd9-4b58-954c-f639cfa335c7)
 
+![image](https://github.com/user-attachments/assets/aa36e4f3-7464-44ef-98de-6e4cb29406f6)
+
+
 
 This repository contains a **Power BI dashboard** that tracks the performance of **8 fulfillment centers (FCs) in France** across key operational metrics. 
 
 The data is **synthetically generated** using Python to simulate realistic fulfillment center operations over the year **2024**.
+
+![image](https://github.com/user-attachments/assets/d84144e9-559f-4f16-b1e1-601b3c17c860)
 
 ---
 
