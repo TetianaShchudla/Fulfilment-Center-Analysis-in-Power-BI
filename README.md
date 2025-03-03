@@ -4,7 +4,6 @@ This repository contains a **Power BI dashboard** that tracks the performance of
 
 The data is **synthetically generated** using Python to simulate realistic fulfillment center operations over the year **2024**.
 
-
 ---
 
 ## 🚀 Project Overview
@@ -19,6 +18,8 @@ The **dashboard** visualizes the following five critical KPIs:
 - ✅ **Order Picking Accuracy Rate (%)**: Percentage of items accurately picked for shipment.
 - 📊 **Inventory Accuracy Rate (%)**: Ratio of physical inventory to recorded inventory.
 - 💰 **Average Cost per Order ($)**: Average cost incurred to fulfill an order.
+
+---
 
 ### What is a Fulfillment Center?
 
