@@ -47,13 +47,6 @@ The dashboard follows a **star schema**:
    - **Date**: Calendar table for time-based analysis.  
    - **Fulfillment Center**: Metadata for center categorization.  
 
-### 🧰 Measures Created:
-- `On-Time Delivery Rate (%)`
-- `Average Order Cycle Time (Days)`
-- `Order Picking Accuracy Rate (%)`
-- `Inventory Accuracy Rate (%)`
-- `Average Cost per Order ($)`
-
 ---
 
 ## 📊 Dashboard Insights
