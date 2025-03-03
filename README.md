@@ -18,7 +18,7 @@ The data is **synthetically generated** using Python to simulate realistic fulfi
 ## 🚀 Project Overview
 
 ### Objective of the Project:
-The objective of this project is to create a dashboard that helps to **track and evaluate the operational performance** of fulfillment centers. By visualizing key metrics such as on-time delivery rates, order cycle times, accuracy rates, and costs, the goal is to provide actionable insights that can help optimize the efficiency of fulfillment centers. This project enables stakeholders to identify potential issues, improve performance, and ensure timely and cost-effective order fulfillment.
+This project aims to create a dashboard to **track and evaluate the performance** of fulfillment centers. It visualizes key metrics like delivery rates, cycle times, accuracy and costs to help optimize efficiency and identify areas for improvement.
 
 The **dashboard** visualizes the following five critical KPIs:
 
@@ -30,11 +30,11 @@ The **dashboard** visualizes the following five critical KPIs:
 
 ### What is a Fulfillment Center?
 
-A **fulfillment center (FC)** is a facility that stores products, processes orders, and ships them to customers. These centers are integral to e-commerce operations as they handle inventory management, order picking, packing, and shipping. They ensure that products are available for delivery, reducing shipping times and improving customer satisfaction. Depending on the size and operational scale, fulfillment centers can vary in complexity and capacity, with some managing millions of orders each year.
+A **fulfillment center (FC)** is a warehouse where products are stored, orders are processed, and shipments are made. Fulfillment centers manage inventory, pick, pack, and ship orders to customers, ensuring timely delivery and efficient operations.
 
 ### What is 3PL (Third-Party Logistics)?
 
-**3PL (Third-Party Logistics)** refers to the outsourcing of logistics operations to a specialized service provider. A 3PL provider manages various aspects of the supply chain, including storage, inventory management, order fulfillment, and shipping. Companies often work with 3PL providers to streamline their operations, reduce costs, and focus on their core business functions, while leaving logistics to experts.
+**3PL** refers to outsourcing logistics services to a third-party provider. This includes tasks like storage, order fulfillment, and shipping. Companies partner with 3PLs to streamline their supply chain and focus on core business activities while leaving logistics management to experts.
 
 In the context of this project, **fulfillment centers** are a crucial part of the 3PL network. They help manage the storage and shipping of products, ensuring timely delivery and operational efficiency. By using 3PL services, businesses can scale operations and optimize their supply chain without managing the complexities of logistics themselves.
 
