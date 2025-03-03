@@ -75,6 +75,6 @@ Open Fulfillment_Dashboard.pbix in Microsoft Power BI.
 - Add geospatial analysis to track performance across regions.
 - Implement dynamic alerts for KPI deviations.
 
-[![Watch the video](https://github.com/TetianaShchudla/Fulfilment-Center-Analysis-in-Power-BI/blob/main/Demo%20-%20Dashboard.mp4)
+<video src="[[https://github.com/user-attachments/assets/d0c3580a-7cbc-4ab1-ad04-42d4e35166bc](https://github.com/TetianaShchudla/Fulfilment-Center-Analysis-in-Power-BI/blob/main/Demo%20-%20Dashboard.mp4](https://github.com/TetianaShchudla/Fulfilment-Center-Analysis-in-Power-BI/blob/main/Demo%20-%20Dashboard.mp4)" width="352" height="720"></video>
 
 ![image](https://github.com/user-attachments/assets/4af29eeb-d408-4a52-b761-f6a9241d2404)
