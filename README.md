@@ -1,6 +1,6 @@
-# 📊 Fulfillment Center Performance Dashboard
+# 📊 3PL Fulfillment Center Performance Dashboard
 
-This repository contains a **Power BI dashboard** that tracks the performance of **8 fulfillment centers in France** across key operational metrics. 
+This repository contains a **Power BI dashboard** that tracks the performance of **8 fulfillment centers (FCs) in France** across key operational metrics. 
 
 The data is **synthetically generated** using Python to simulate realistic fulfillment center operations over the year **2024**.
 
@@ -74,7 +74,6 @@ Open Fulfillment_Dashboard.pbix in Microsoft Power BI.
 - Incorporate forecasting for future delivery and accuracy trends.
 - Add geospatial analysis to track performance across regions.
 - Implement dynamic alerts for KPI deviations.
-
 
 
 ![image](https://github.com/user-attachments/assets/4af29eeb-d408-4a52-b761-f6a9241d2404)
